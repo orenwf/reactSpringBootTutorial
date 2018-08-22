@@ -1,2 +1,2 @@
 # reactSpringBootTutorial
-Learning Spring Bot
+Learning Spring Boot
